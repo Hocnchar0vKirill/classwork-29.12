@@ -140,3 +140,15 @@ body{
     top: 140px;
     left: 15px;
 }
+.welcome{
+    width: 320px;
+    height: 130px;
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 65px;
+    color: #000000;    
+}
