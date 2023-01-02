@@ -241,3 +241,22 @@ body{
     line-height: 16px;
     color: #FFFFFF;    
 }
+.menu{
+    width: 675px;
+    height: 280px;
+    top: 468px;
+    margin-left: 70px;
+    margin-top: 50px;  
+}
+.filter>a{
+    font-family: 'Spartan';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 27px;
+    text-decoration: none;
+    color: #000000;    
+}
+.filter>img{
+    margin-left: 10px;
+}
